@@ -1,6 +1,6 @@
 # jpa03-Vanessa-Salgado
 
-Repo: https://ucsb-cs156-s21/Sjpa03-Vanessa-Salgado
+Repo: https://ucsb-cs156-s21/jpa03-Vanessa-Salgado
 
 On Heroku: https://jpa03-vsalgadozavaleta.herokuapp.com/
 
